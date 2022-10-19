@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on [Portfolio](https://ranjanportfolio.netlify.app)
 
-- 🌱 I’m currently learning **reaact**
+- 🌱 I’m currently learning **react**
 
 - 👯 I’m looking to collaborate on **this**
 
@@ -17,12 +17,14 @@
 
 - 💬 Ask me about **frontend**
 
-- 📫 How to reach me **kjsfhsajhff@gmail.com**
+- 📫 How to reach me **ranjangupta35558@gmail.com**
 
 - ⚡ Fun fact **I'm kinda slow compiler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ranjan-kumar-40117120a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjan-kumar-40117120a" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ranjan_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjan_gupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
